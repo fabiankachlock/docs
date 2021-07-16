@@ -1,5 +1,7 @@
 # [sli.dev](https://sli.dev)
 
+### This repo move to [https://github.com/slidevjs/docs-de](https://github.com/slidevjs/docs-de)
+
 Dokumentation für [Slidev](https://github.com/slidevjs/slidev)
 
 ## Übersetzungen
